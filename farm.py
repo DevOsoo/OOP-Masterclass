@@ -32,7 +32,7 @@ class Farm:
                 print(item.show_animal_details())
             else:
                 print("Unavailable in the Inventory")
-            print("--------------------------------------------------------------------")
+            print("break--------------------------------------------------------------------end of break")
 
       
 class FarmTool:
